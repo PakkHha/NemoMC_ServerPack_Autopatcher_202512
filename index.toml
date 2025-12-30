@@ -3537,7 +3537,7 @@ file = "mods/shield_api-fabric-2.2.0.jar"
 hash = "679aac13306033fe0772a3b2e5fc7c1a898a34b3a9a46381e4233d9129157ed4"
 
 [[files]]
-file = "mods/show-me-your-skin-1.11.3+1.21.jar"
+file = "mods/show-me-your-skin-1.11.3+1.21.jar.disabled"
 hash = "eae03bc5d240c47440c01867fa3b7cd8917f6c264a75b860b6541473e399820b"
 
 [[files]]
