@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:torch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"sophisticatedbackpacks:stack_upgrade_tier_4","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:shroomlight"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
