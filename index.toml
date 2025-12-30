@@ -19771,3 +19771,7 @@ hash = "a7134a10138f6e5fe523dafa23bd266ba2e53621ac65a5e23294fe9a125b9d73"
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip"
 hash = "a8cd9d4338c7d3d1fffecc4525348a31ea3d219ef31382c51d5ddc3b4b0114e1"
+
+[[files]]
+file = "too_many_shortcuts.json"
+hash = "810e828577ee005fbc51c5d49f8acfb59567a22ba45964464a4726c8e01f6d0e"
