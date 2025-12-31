@@ -782,7 +782,7 @@ hash = "3c9e39e4d6a36db5d84e4b1eae822eb54840418fc5dfcdda972443c3e49075f9"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "67801601de82cb5a630c246eb616a3644f8707c812126094214d10089b7f8935"
+hash = "b8f2a516d7ff21258b3dba466f08076f9f5f008ab4f6470a632593528c12e805"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -970,7 +970,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "57e67a8a006d7176e9c89d8f128ef29df206f840ee26b201753e22af6e657c02"
+hash = "2654f1001a113f58b50a963b5022e1feaef693b648edc0fb9419edb356e7a65e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -1354,7 +1354,7 @@ hash = "f32cb54a99b0f143fe0db5b5664a8df7bff668c8d4291267f2ce8873da7f4439"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "5c2fd23dee7c8453ca5502b913068c69fb29517a937685353b754717d67e09c3"
+hash = "ba59087f58ef415d9df7971275d16e15fd0d0b246782d3b9c116c5ae85570323"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -1802,7 +1802,7 @@ hash = "1561b99ae57ede995dfb64a91ac5b53dd877f57e4a8f1859526da84511bcec07"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "108f8c89a90d109995363340859aed11d0c27c5f4f8f8ec9dc1c2fd79fe91034"
+hash = "3ee6fe644e4ddeb3eb2286744340854330509682a731c800d110fffe09436ce8"
 
 [[files]]
 file = "config/voidtotem.toml"
@@ -2470,7 +2470,7 @@ hash = "6d20febf3e1f07883ebd143fc234800a607ba298fdea8d46d73bb618744c6d95"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3ba73c8ad7978c24156baf83185bd5a5f0d23d0d8aa95becf0dcfda7cc53b1b8"
+hash = "95c83a96fd2327a138f6019ff256bfec6b20c2667a30791947886e2ea2955b80"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2603,10 +2603,6 @@ hash = "dcc5340dc771c61358f53b9818594e9e588d9af81c0a1e906c373fb14d9be7a3"
 [[files]]
 file = "mods/FallingTree-1.21.1-1.21.1.11.jar"
 hash = "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
-
-[[files]]
-file = "mods/FarmersDelight-1.21.1-1.2.9.jar"
-hash = "bdc8dea5ea3f1ee81494a4587a6aef88976d942294a8ceddc3287cf0436bfd4f"
 
 [[files]]
 file = "mods/FarmersDelight-1.21.1-3.2.2+refabricated.jar"
@@ -3553,10 +3549,6 @@ file = "mods/shield_api-fabric-2.2.0.jar"
 hash = "679aac13306033fe0772a3b2e5fc7c1a898a34b3a9a46381e4233d9129157ed4"
 
 [[files]]
-file = "mods/show-me-your-skin-1.11.3+1.21.jar.disabled"
-hash = "eae03bc5d240c47440c01867fa3b7cd8917f6c264a75b860b6541473e399820b"
-
-[[files]]
 file = "mods/shulkerboxtooltip-fabric-5.1.8+1.21.1.jar"
 hash = "09e0fee9737608e7d613c244cb961871e00e5ae8e1db8acef638dfc02670a67c"
 
@@ -3754,7 +3746,7 @@ hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
 
 [[files]]
 file = "options.txt"
-hash = "ac3a404d878134f678cf7d3309b00de77a6e1a203ded0e73709575313462ff13"
+hash = "51844fc8ec9d7acc877f43f7b986f7d5e8b0fa62efe438d8483154f152928dea"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
@@ -3765,16 +3757,8 @@ file = "resourcepacks/3D Default 1.20+ v1.13.0.zip"
 hash = "70b2c25d25d51c706d8ef79e458d2806a15ebebb736fcd98487938e195778efa"
 
 [[files]]
-file = "resourcepacks/Animated-Ore-0.6.6+mc1.20-1.21.9.zip"
-hash = "c80937a75daf81119d36b9ac9c736ee4638f93aee1c3343180ad59da32680d5d"
-
-[[files]]
 file = "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"
 hash = "2b1c802be7207ac488c071ba79f54ea44227bd5d7d815f16a710a4e25da8d385"
-
-[[files]]
-file = "resourcepacks/Better-Leaves-9.4.zip"
-hash = "e23bdbc29db70b41e3f561dfce43dfc97b2bce3fc8857d5aae08d8557111190d"
 
 [[files]]
 file = "resourcepacks/BetterHangulFont.zip"
@@ -3783,14 +3767,6 @@ hash = "a6362860a052ec304f31b2c99a51c33011d80efbf3911a9b29a1397a7ed338a0"
 [[files]]
 file = "resourcepacks/Blue netherite[1.1.3].zip"
 hash = "1ea349a37c20955b854052cf005ba81e63f6b20a058ea28856bc8899b27af762"
-
-[[files]]
-file = "resourcepacks/Brewing Guide 1.21.1 to 1.21.4.zip"
-hash = "1d60ee8ce9f55097d724574baf3b54735039a79f3c0e7fd5145eb895b4aa69e5"
-
-[[files]]
-file = "resourcepacks/Default-Dark-Mode-1.20.2+-2025.5.0.zip"
-hash = "3f168a0a354a4f703ebc22b0bf011df4f2211b3e8b4b561e527c699bb7356ab2"
 
 [[files]]
 file = "resourcepacks/Dramatic Skys Demo 1.5.3.36.1.zip"
@@ -3817,10 +3793,6 @@ file = "resourcepacks/LowOnFire 1.21.3.zip"
 hash = "55ab1c3595da0d8174efe28c2ef9a35e49997a371c67bb7664e841d26954dc15"
 
 [[files]]
-file = "resourcepacks/MandalasGUI+Darkmode_1.21.5_1.zip"
-hash = "6f6159779c23ca740bd92d3e445dd93d68cbc32a34570d85596ce5d4bc74dc81"
-
-[[files]]
 file = "resourcepacks/Nautilus3D-V2.2.zip"
 hash = "7d7367257f54fb3e74b77b4fdfb753b9153b6781f89c134f6badae74ac8a2ba9"
 
@@ -3829,40 +3801,12 @@ file = "resourcepacks/NewGlowingOres-§6[Border]§r.zip"
 hash = "623ef37ea6821f3d02e68631fcca20ac18fe95647af580a279604a9314203f0b"
 
 [[files]]
-file = "resourcepacks/No Pumpkin Blur 1.0.zip"
-hash = "0ce52ecf604015e58d5041b409140ef76152ae7d2a92edddb7112ed8f5514688"
-
-[[files]]
-file = "resourcepacks/NoFog V1.zip"
-hash = "6a95b66aa605d30d0e5e7b1f48803939f9861a4462f9b4ec4a9820d9658c4811"
-
-[[files]]
-file = "resourcepacks/NoFog.zip"
-hash = "1086ae6c85a7ea87f51383cb207e0da5870128694a41a40345ded19495b3f475"
-
-[[files]]
 file = "resourcepacks/R1.21.1_PREPotionRecipesV01.03.06.zip"
 hash = "eaea6e525132634b7eea48736dbbce630ae27b61174c047f735f6fb1e4d8395d"
 
 [[files]]
-file = "resourcepacks/RemoveFog_1.21~1.21.1-1.1.zip"
-hash = "82db5180a28b292be3ffb0c990a5fb189d6bf6b0a830d86db20a0afe51b85c0a"
-
-[[files]]
 file = "resourcepacks/Xray_Ultimate_1.21_v5.2.2.zip"
 hash = "ba22ae2ba81bdcc4f9c221536805e147d7b72922310e29d40fe767d18dd77afe"
-
-[[files]]
-file = "resourcepacks/classic-fog-mc1.21-v1.1.3.zip"
-hash = "adff01d0749266df5657ffb4708d8a878fce46af33db113b45350ed9f11681e0"
-
-[[files]]
-file = "resourcepacks/crops-3d(2).zip"
-hash = "d63df002bd227c00ee11b8b5f64b751b152b3e0f883a135c2496564703bf67c5"
-
-[[files]]
-file = "resourcepacks/emissive-ores-1-21.zip"
-hash = "a3131cb9f2d4083eba6f2aa47d67411ca6d98d70eaf7ea9aeb0ae67ba8a926fe"
 
 [[files]]
 file = "resourcepacks/enchant icons 1.21 v1.3.zip"
